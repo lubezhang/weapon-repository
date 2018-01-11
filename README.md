@@ -10,11 +10,14 @@
 - [posthtml](https://github.com/posthtml/posthtml/) javasciprt和HTML/XML转换
 - [walt](https://github.com/ballercat/walt/)
 - [js-xlsx](https://github.com/SheetJS/js-xlsx/) javascript解析、导出 execl
-- [electron-vue](https://github.com/SimulatedGREG/electron-vue/) 使用vue开发electron应用
 - [parcel](https://github.com/parcel-bundler/parcel/) 零配置的前端构建工具
 - [youch](https://github.com/poppinss/youch/) 漂亮的nodejs错误输出
 - [PWA-Book-CN](https://github.com/SangKa/PWA-Book-CN/) PWA实战，中文教程（持续更新中）
 - [html-minifier](https://github.com/kangax/html-minifier/) 使用javascirpt压缩HTML
+
+#### Electron
+- [electron-cn-docs](https://github.com/amhoho/electron-cn-docs/) Electron中文文档! 
+- [electron-vue](https://github.com/SimulatedGREG/electron-vue/) 使用vue开发electron应用
 
 ### React
 
@@ -22,6 +25,8 @@
 ### Vue
 - [v-charts](https://github.com/ElemeFE/v-charts) 基于 Vue2.0 和 ECharts 封装的图表组件
 - [weex-pack](https://github.com/weexteam/weex-pack/) 将weex项目打包成Android、iOS、H5应用的工具
+- [vubx](https://github.com/zetaplus006/vubx/) 面向对象风格的Vue状态管理
+- [weex](https://github.com/apache/incubator-weex/) Mirror of Apache Weex
 
 #### 组件库
 - [vant](https://github.com/youzan/vant/) Vue2.0 UI
@@ -35,10 +40,12 @@
 
 ### 微信
 - [spy-debugger](https://github.com/wuchangming/spy-debugger/) 微信调试
+- [wepy](https://github.com/Tencent/wepy/) 小程序组件化开发框架
 
 
 ### 移动端
 - [mobileHack](https://github.com/RubyLouvre/mobileHack/) 这里收集了许多移动端上遇到的各种坑
+
 
 
 ## 其他
@@ -47,3 +54,8 @@
 - [harbor](https://github.com/vmware/harbor/)  私有 Docker Hub（go）
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university/) 软件开发学习
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) 命令行扩展
+- [HanLP](https://github.com/hankcs/HanLP/) 自然语言处理
+
+### 安全
+- [Web/Cloud/Docker Security](https://github.com/JnuSimba/MiscSecNotes/)
+- [AndroidSecNotes](https://github.com/JnuSimba/AndroidSecNotes/) some learning notes about Android Security
