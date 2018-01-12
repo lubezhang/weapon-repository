@@ -23,12 +23,12 @@
 
 
 ### Vue
-- [v-charts](https://github.com/ElemeFE/v-charts) 基于 Vue2.0 和 ECharts 封装的图表组件
 - [weex-pack](https://github.com/weexteam/weex-pack/) 将weex项目打包成Android、iOS、H5应用的工具
 - [vubx](https://github.com/zetaplus006/vubx/) 面向对象风格的Vue状态管理
 - [weex](https://github.com/apache/incubator-weex/) Mirror of Apache Weex
 
-#### 组件库
+#### Vue组件库
+- [v-charts](https://github.com/ElemeFE/v-charts) 基于 Vue2.0 和 ECharts 封装的图表组件
 - [vant](https://github.com/youzan/vant/) Vue2.0 UI
 
 ### node
@@ -42,11 +42,8 @@
 - [spy-debugger](https://github.com/wuchangming/spy-debugger/) 微信调试
 - [wepy](https://github.com/Tencent/wepy/) 小程序组件化开发框架
 
-
 ### 移动端
 - [mobileHack](https://github.com/RubyLouvre/mobileHack/) 这里收集了许多移动端上遇到的各种坑
-
-
 
 ## 其他
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) 翻墙工具，需要提供VPN服务
