@@ -36,11 +36,13 @@
 ### node
 - [nvs](https://github.com/jasongin/nvs) node版本切换工具
 - [nvm](https://github.com/creationix/nvm) node版本管理工具，脱离node环境，管理的每个弄的版本都是独立存在
+- [verdaccio](https://github.com/verdaccio/verdaccio) A lightweight private npm proxy registry. verdaccio is a fork of sinopia
 
 ### AI
 - [人工智能基础理论](https://github.com/KeKe-Li/tutorial)
 
 ### 微信
+- [wechat-spa](https://github.com/Chooin/wechat-spa) 微信端单页面应用（SPA）常见问题汇总及解决方案
 - [spy-debugger](https://github.com/wuchangming/spy-debugger/) 微信调试
 - [wepy](https://github.com/Tencent/wepy/) 小程序组件化开发框架
 - [wept](https://github.com/chemzqm/wept) 微信小程序 web 端实时运行工具，可以脱离微信开发工具运行
