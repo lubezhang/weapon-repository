@@ -14,6 +14,7 @@
 - [youch](https://github.com/poppinss/youch/) 漂亮的nodejs错误输出
 - [PWA-Book-CN](https://github.com/SangKa/PWA-Book-CN/) PWA实战，中文教程（持续更新中）
 - [html-minifier](https://github.com/kangax/html-minifier/) 使用javascirpt压缩HTML
+- [es6-promise](https://github.com/stefanpenner/es6-promise) A polyfill for ES6-style Promises
 
 #### Electron
 - [electron-cn-docs](https://github.com/amhoho/electron-cn-docs/) Electron中文文档! 
