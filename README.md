@@ -1,5 +1,8 @@
 # weapon-repository
 ## 项目分类，方面以后使用和选型
+### 学习资料
+- [streamify-your-node-program](https://github.com/zoubin/streamify-your-node-program) 对Node.js中 stream模块的学习积累和理解
+
 ### 前端
 - [localForage](https://github.com/localForage/localForage) web端离线存储
 - [fastify](https://github.com/fastify/fastify) 基于nodejs的web服务器，类似 koa、express
