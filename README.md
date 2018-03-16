@@ -49,6 +49,7 @@
 - [wept](https://github.com/chemzqm/wept) 微信小程序 web 端实时运行工具，可以脱离微信开发工具运行
 - [wxapp-boilerplate](https://github.com/ihahoo/wxapp-boilerplate) 微信小程序开发脚手架
 - [mpvue](https://github.com/Meituan-Dianping/mpvue) 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系
+- [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin) ECharts 的微信小程序版本
 
 ### 移动端
 - [mobileHack](https://github.com/RubyLouvre/mobileHack/) 这里收集了许多移动端上遇到的各种坑
