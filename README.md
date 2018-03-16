@@ -55,6 +55,9 @@
 - [mobileHack](https://github.com/RubyLouvre/mobileHack/) 这里收集了许多移动端上遇到的各种坑
 - [Flexible](https://github.com/amfe/lib-flexible) H5页面的移动端适配方案
 
+### 图形 && 动画
+- [rough](https://github.com/pshihn/rough) 生成手绘风格的图形。Create graphics with a hand-drawn, sketchy, appearance 
+
 ## 其他
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) 翻墙工具，需要提供VPN服务
 - [github-profile-summary](https://github.com/tipsy/github-profile-summary/) github 用户基本信息
