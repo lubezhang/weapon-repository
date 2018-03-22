@@ -46,8 +46,11 @@
 - [人工智能基础理论](https://github.com/KeKe-Li/tutorial)
 
 ### 微信
+#### 微信内置
 - [wechat-spa](https://github.com/Chooin/wechat-spa) 微信端单页面应用（SPA）常见问题汇总及解决方案
 - [spy-debugger](https://github.com/wuchangming/spy-debugger/) 微信调试
+#### 小程序
+- [wxParse](https://github.com/icindy/wxParse) 微信小程序富文本解析自定义组件，支持HTML及markdown解析 
 - [wepy](https://github.com/Tencent/wepy/) 小程序组件化开发框架
 - [wept](https://github.com/chemzqm/wept) 微信小程序 web 端实时运行工具，可以脱离微信开发工具运行
 - [wxapp-boilerplate](https://github.com/ihahoo/wxapp-boilerplate) 微信小程序开发脚手架
