@@ -32,6 +32,7 @@
 - [weex-pack](https://github.com/weexteam/weex-pack/) 将weex项目打包成Android、iOS、H5应用的工具
 - [vubx](https://github.com/zetaplus006/vubx/) 面向对象风格的Vue状态管理
 - [weex](https://github.com/apache/incubator-weex/) Mirror of Apache Weex
+- [vue-motion](https://github.com/posva/vue-motion) 创建平滑、自然的动画
 
 #### Vue组件库
 - [v-charts](https://github.com/ElemeFE/v-charts) 基于 Vue2.0 和 ECharts 封装的图表组件
